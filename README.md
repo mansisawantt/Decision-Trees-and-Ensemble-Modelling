@@ -2,7 +2,7 @@
 Evaluate Cars Condition based on given feature
 
 buying Feature Categorical buying price
-< br / > maint Feature Categorical price of the maintenance
+<br/> maint Feature Categorical price of the maintenance
 < br / > doors Feature Categorical number of doors
 < br / > persons Feature Categorical capacity in terms of persons to carry
 < br / > lug_boot Feature Categorical the size of luggage boot
